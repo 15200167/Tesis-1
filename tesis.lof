@@ -9,10 +9,10 @@
 \contentsline {figure}{\numberline {8}{\ignorespaces Arquitecura de la red desarrollada}}{20}{figure.caption.17}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Balanceo de clases usando Aumento de Datos}}{26}{figure.caption.24}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Estructura de ViT implementado}}{27}{figure.caption.25}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Imágenes de ultrasonido de la tiroides generadas}}{47}{figure.caption.47}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Imágenes de ultrasonido de la tiroides generadas}}{48}{figure.caption.47}%
 \contentsline {figure}{\numberline {12}{\ignorespaces Proceso de entrenamiento con ACL}}{51}{figure.caption.49}%
 \contentsline {figure}{\numberline {13}{\ignorespaces Convolución de imagen de Fashion MNIST}}{53}{figure.caption.51}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Convolución de imagen con filtro de líneas verticales}}{53}{figure.caption.52}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Convolución de imagen con filtro de líneas verticales}}{54}{figure.caption.52}%
 \contentsline {figure}{\numberline {15}{\ignorespaces Convolución de imagen con filtro de líneas horizontales}}{54}{figure.caption.53}%
 \contentsline {figure}{\numberline {16}{\ignorespaces Ejemplo de max-pooling con un pool de 2x2}}{55}{figure.caption.54}%
 \contentsline {figure}{\numberline {17}{\ignorespaces DenseNet con 5 capas}}{57}{figure.caption.55}%
